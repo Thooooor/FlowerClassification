@@ -1,0 +1,5 @@
+/saved_model/KNN.pickle
+/saved_model/RandomForests.pickle
+/saved_model/SGD.pickle
+/saved_model/SVM.pickle
+/saved_model/Voting Classifier.pickle
